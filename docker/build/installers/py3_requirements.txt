@@ -47,3 +47,4 @@ pygithub
 
 # Data excel
 xlsxwriter
+jinja2>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
